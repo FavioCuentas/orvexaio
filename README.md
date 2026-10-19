@@ -1,6 +1,6 @@
 # Orbexa IO
 
-Home público en React + TypeScript y Vite. Cinco marcas, Bento adaptable, ilustraciones SVG originales y páginas internas en preparación. Nano Chapelete enlaza a https://nanoweb-sigma.vercel.app/#soluciones en una pestaña nueva.
+Home público en React + TypeScript y Vite. Cinco marcas, Bento adaptable, ilustraciones SVG originales y páginas internas en preparación. Nano Chapelete enlaza a https://nanochapelete.orvexaio.com/#soluciones en una pestaña nueva.
 
 ## Desarrollo
 
