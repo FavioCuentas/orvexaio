@@ -23,13 +23,13 @@ El resultado se genera en `dist/`. El alojamiento debe redirigir rutas no corres
 
 - `src/data.ts`: nombres, categorías, descripciones, etiquetas, visuales, destinos, estado y acciones de las cinco marcas. `Orbexa Gestión` es provisional; su nombre, alcance y acción están centralizados aquí.
 - `site.url`: reservado para el dominio confirmado; permanece vacío y no genera un canonical ficticio.
-- `site.contactEmail`: vacío hasta confirmar el contacto. Al configurarlo se muestra un enlace de correo real.
+- `site.contactEmail` y `site.contactPhone`: correo y número de WhatsApp mostrados como enlaces en el área de contacto.
 - `src/styles.css`: tokens de color, radios y espaciado, retícula y adaptaciones a 1000 y 640 px.
 - `src/Illustration.tsx`: ilustraciones conceptuales decorativas; no son capturas de productos.
 
 ## Pendientes de contenido
 
-Confirmar nombre y alcance de Orbexa Gestión, destinos definitivos, dominio, logotipos de las marcas y datos de contacto. El logo de Orbexa IO proporcionado se muestra en encabezado y pie de página; su lámina original se conserva en `public/orbexa-brand-original.png`. La imagen de referencia no estaba disponible en los archivos recibidos; el diseño sigue la dirección estética del texto.
+Confirmar nombre y alcance de Orbexa Gestión, destinos definitivos, dominio y logotipos de las marcas. El logo de Orbexa IO proporcionado se muestra en encabezado y pie de página; su lámina original se conserva en `public/orbexa-brand-original.png`. La imagen de referencia no estaba disponible en los archivos recibidos; el diseño sigue la dirección estética del texto.
 
 ## Accesibilidad
 

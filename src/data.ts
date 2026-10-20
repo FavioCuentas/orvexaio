@@ -1,5 +1,5 @@
 export type Brand = { id: string; name: string; category: string; description: string; tags: string[]; image: 'software' | 'reader' | 'music' | 'home' | 'management'; href: string; external: boolean; status: string; action: string };
-export const site = { name: 'Orbexa IO', url: '', contactEmail: '' };
+export const site = { name: 'Orbexa IO', url: '', contactEmail: 'favio.cuentas@orvexaio.com', contactPhone: '+59170532464' };
 export const brands: Brand[] = [
 { id: 'nano-chapelete', name: 'Nano Chapelete', category: 'Software y soluciones digitales', description: 'Desarrollamos soluciones web, móviles y de datos para convertir necesidades de negocio en herramientas útiles.', tags: ['Software', 'IA', 'Business Intelligence'], image: 'software', href: 'https://nanochapelete.orvexaio.com/#soluciones', external: true, status: 'Disponible', action: 'Explorar Nano Chapelete' },
 { id: 'lectoria', name: 'Lectoría', category: 'Lectura y aprendizaje', description: 'Un espacio para leer, escuchar y aprender con tus documentos y libros digitales.', tags: ['Lectura', 'Audio', 'Aprendizaje'], image: 'reader', href: '/marcas/lectoria', external: false, status: 'Página en preparación', action: 'Descubrir Lectoría' },
