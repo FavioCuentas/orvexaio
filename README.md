@@ -17,7 +17,7 @@ npm run build
 npm run preview
 ```
 
-El resultado se genera en `dist/`. El alojamiento debe redirigir rutas no correspondientes a archivos hacia `index.html` para permitir abrir directamente `/marcas/faviax`, `/marcas/fc-tecnologia` y `/marcas/orbexa-gestion`. Vite admite estas rutas durante desarrollo y preview.
+El resultado se genera en `dist/`. `vercel.json` redirige las rutas no correspondientes a archivos hacia `index.html` (y `/marcas/lectoria` a https://lectoria.orvexaio.com) para permitir abrir directamente `/marcas/faviax`, `/marcas/fc-tecnologia` y `/marcas/orbexa-gestion`. Vite admite estas rutas durante desarrollo y preview.
 
 ## Contenido editable
 
