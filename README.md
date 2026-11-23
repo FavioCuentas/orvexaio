@@ -1,6 +1,6 @@
 # Orbexa IO
 
-Home público en React + TypeScript y Vite. Cinco marcas, Bento adaptable, ilustraciones SVG originales y páginas internas en preparación. Nano Chapelete enlaza a https://nanochapelete.orvexaio.com/#soluciones en una pestaña nueva.
+Home público en React + TypeScript y Vite. Cinco marcas, Bento adaptable, ilustraciones SVG originales y páginas internas en preparación. Nano Chapelete (https://nanochapelete.orvexaio.com/#soluciones), Lectoría (https://lectoria.orvexaio.com) y Faviax (https://faviax.orvexaio.com) se abren en una pestaña nueva.
 
 ## Desarrollo
 
@@ -17,7 +17,7 @@ npm run build
 npm run preview
 ```
 
-El resultado se genera en `dist/`. El alojamiento debe redirigir rutas no correspondientes a archivos hacia `index.html` para permitir abrir directamente `/marcas/lectoria`, `/marcas/faviax`, `/marcas/fc-tecnologia` y `/marcas/orbexa-gestion`. Vite admite estas rutas durante desarrollo y preview.
+El resultado se genera en `dist/`. El alojamiento debe redirigir rutas no correspondientes a archivos hacia `index.html` para permitir abrir directamente `/marcas/faviax`, `/marcas/fc-tecnologia` y `/marcas/orbexa-gestion`. Vite admite estas rutas durante desarrollo y preview.
 
 ## Contenido editable
 
